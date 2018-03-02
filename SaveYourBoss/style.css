@@ -28,14 +28,9 @@
       }
   img{
       max-width: 100%;
-      margin: 0;
-      padding: 0;
       }
   p{
       font-size: 0.9rem;
-      -webkit-column-count: 2;
-      -moz-colum-count: 2;
-      colum-count: 2;
       text-aligh: left;
       }
   footer{
@@ -48,11 +43,11 @@
       color: #666;
       }
   .call_to_action{
-      background: fff;
+      background: #2980b9;
       color: #fff;
       margin:  0 0 25px 0;
       cursor: pointer;
       padding: 10px 15px;
      }
       
-    </style>
+ 
